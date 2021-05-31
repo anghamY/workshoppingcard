@@ -1,0 +1,49 @@
+header #Texte {
+display: flex;
+justify-content: center;
+color: brown;
+
+}
+.card {
+    padding-left: 10%;
+    padding-top: 15%;
+    border: brown 5px;
+    box-shadow: 0 5px 2px 0 rgba(0,0,0,0.2)
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 10%;
+  font-size: 18px;
+}
+.carda {
+    padding-left: 10%;
+    padding-top: 15%;
+    border: brown 5px;
+    box-shadow: 0 5px 2px 0 rgba(0,0,0,0.2)
+}
+.carda button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 10%;
+    font-size: 18px;
+  }
+
+  
+
+
